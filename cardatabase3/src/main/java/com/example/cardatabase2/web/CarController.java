@@ -1,4 +1,4 @@
-package com.example.cardatabase2.wen;
+package com.example.cardatabase2.web;
 
 import com.example.cardatabase2.domain.Car;
 import com.example.cardatabase2.domain.CarRepository;
