@@ -5,19 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38989aba-129f-494e-9fa6-11c436f3abb0" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/domain/AppUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/domain/AppUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/service/AccountCredentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/service/JwtService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/web/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/20250516.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/AuthEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/AuthEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/Cardatabase2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/domain/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/domain/AppUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/domain/CarRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/domain/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/domain/OwnerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/service/AccountCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/web/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/java/com/example/cardatabase2/web/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/test/java/com/example/cardatabase2/CarRestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/test/java/com/example/cardatabase2/Cardatabase2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardatabase4/src/test/java/com/example/cardatabase2/OwnerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/20250519.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase3/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/Cardatabase2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/Cardatabase2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/wen/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/web/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_log/20250512.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/20250512.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/service/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/web/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cardatabase3/src/main/java/com/example/cardatabase2/web/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
